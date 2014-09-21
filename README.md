@@ -7,7 +7,7 @@ README.md
 > provided through Coursera. This README.md file described\s the basic operation of the *run_analaysis.R* script.  This README.md file is divided into several sections defined by head header section.
 
 ## Scope of this *README.md* file: ##
-This README.md file covers the operation of the scripts for this course project and how the scrip operates.  There is only executable script associated with this project is the *run_analaysis.R* script.
+This README.md file covers the operation of the scripts for this course project and how the scrip operates.  There is only a single executable script associated with this project named *run_analaysis.R*.
 
 ## Overview of the  *run_analysis.R* file.
 The *run_analaysis.R* file is designed in sections where each section corresponds to a numbered item of the problem statement for the class assignment.  That is, the assignment required 5 steps and therefore, the run__analysis.R script is divided into 5 corresponding sections.
