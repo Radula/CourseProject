@@ -250,8 +250,8 @@ SubjectID
 ActivityName
 - The activity name.
 
-## Variable Definitions: ##
-- All original signal units are signals from the acceleraomter of the phone or the gyroscop.  These digital values (sampled at 50HZ) where them processed in various ways.
+## Variable Units: ##
+- All original signal units are signals from the acceleraomter of the phone or the gyroscop.  These signals were A/D sampled.  These digital values (sampled at 50HZ) where then digitally processed as indicated in the variable definition section.  The value of the signal units of the accelerometer correspond to acceleration in a particular direction of X,Y,Z directions and the gyroscope values correspond to rotational veloicty in a particular axis of rotation of axes X,Y,or Z.
 
 ## Data Description: ##
 
