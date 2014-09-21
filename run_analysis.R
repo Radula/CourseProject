@@ -4,7 +4,7 @@
 # The program is divided into five sections, each section corresponds to a step of the
 # problem statement.
 # Data was obtained from http://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-# Please set the working directory global string to a direction you you want to extract
+# Please set the working directory global string to a directory you you want to extract
 # the data from.
 #
 ######################################################################################
