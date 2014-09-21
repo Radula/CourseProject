@@ -250,6 +250,9 @@ SubjectID
 ActivityName
 - The activity name.
 
+## Variable Definitions: ##
+- All original signal units are signals from the acceleraomter of the phone or the gyroscop.  These digital values (sampled at 50HZ) where them processed in various ways.
+
 ## Data Description: ##
 
 The data was downloaded from http://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
